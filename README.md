@@ -32,4 +32,8 @@ java main.gui.Main
 ###### 1. Click on the send file button.
 ###### 2. Enter the IP address. (This is given from the receiving PC).
 ###### 3. Choose either a file/folder depending on what you want to send.
-###### 4. Finally press on send. 
+###### 4. Finally press on send.  
+<br />
+<br />
+
+##### An executable jar file is included for convenience. Just double click on it to open the app.
